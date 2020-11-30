@@ -1,0 +1,23 @@
+sl-input {
+    padding: 5px
+}
+
+sl-button {
+    padding: 5px;
+    width : 100%;
+}
+
+sl-select {
+    padding: 5px;
+}
+
+.preview {
+    padding: 5px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 20px;
+}
+
+.preview.hidden {
+    display: none;
+}
